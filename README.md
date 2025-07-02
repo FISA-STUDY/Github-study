@@ -10,7 +10,8 @@
 - release(배포): 배포 전 품질을 검사(QA)하기 위한 브랜치  
 - hotfix(수정): main 브랜치로 배포 후 문제가 생겨 수정을 하기 위한 브랜치
 
-![git flow 구조](attachment:f8b3611b-de9d-44aa-b50d-e741ee58f20f:image.png)
+![git flow 구조](![image](https://github.com/user-attachments/assets/008526d2-9e04-4f41-9f8c-af842fbe935a)
+)
 
 이때, main과 develop 브랜치는 보통 필수적으로 만들고  
 나머지는 선택이므로 본인이 진행중인 프로젝트의 성격과 특징에 따라 브랜치를 생성 및 이용하면 됨
@@ -28,7 +29,8 @@
 - feature 브랜치에서는 신규 기능 개발  
 - Task 완료 시 Pull Request를 생성해 리뷰를 요청하고 이를 accept하면 해당 feature 브랜치를 master 브랜치로 merge함
 
-![github flow 구조](attachment:4edb2a4d-6000-4cc4-a882-825cdb5f7aa8:image.png)
+![github flow 구조](![download](https://github.com/user-attachments/assets/6edbae3a-81ca-4aef-8beb-44d3708ee141)
+)
 
 ## 그렇다면 어떤 걸 사용해야 할까요?
 
