@@ -1,4 +1,4 @@
-이미지
+![image](https://github.com/user-attachments/assets/e5ff7f5a-a0d7-4747-9797-68b351505415)
 
 # Git Hook이란?
 
@@ -12,7 +12,7 @@ Git의 특정 이벤트에 갈고리(Hook)를 걸어 자동으로 스크립트�
 
 여긴 10개의 hook이 있는데, 파일의 확장자인 .sample을 지우면 git hook가 실행됨.
 
-이미지
+<img width="845" alt="hooks" src="https://github.com/user-attachments/assets/8b9aefbe-a184-43cc-8d7d-eaf80ded7c1f" />
 
 Git Hook은 크게 클라이언트 측 훅과 서버 측 훅으로 나뉨.
 
