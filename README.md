@@ -1,11 +1,4 @@
-# Git 머지(Merge) 완벽 가이드 🔀
-
-## 💥 Git Conflict
-
-말 그대로 충돌을 뜻합니다. 즉, 서로 다른 브랜치에서 같은 코드를 수정하고 merge를 했을때 자동 merge가 실패되는 현상입니다.
-
-![Git Branch Merge](https://velog.velcdn.com/images%2Fdydalsdl1414%2Fpost%2Fb5ef3242-d550-4c96-84c7-ed972f9f2452%2Fgit-mergej.gif)
-위에서 본 짤과 같이, merge 관련 이슈는 빈번하게 일어난다고 합니다. 만일 짧고 간단한 파일들의 conflict인 경우 금방 해결할 수 있지만, 코드가 수백줄, 수천줄이라면.. 생각만해도 매우 아찔....
+# Git Merge 가이드 🔀
 
 ## 📋 목차
 
